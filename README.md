@@ -1,0 +1,1 @@
+Premier texte sur Git.
